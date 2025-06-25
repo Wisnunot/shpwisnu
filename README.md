@@ -20,9 +20,3 @@
 ## 📊 GitHub Stats
 ![Wisnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wisnunot&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisnunot&layout=compact&theme=radical)
-
-## ✨ Latest Projects
-- 🔗 [Project 1](https://github.com/Wisnunot/project1)
-- 🔗 [Project 2](https://github.com/Wisnunot/prediksi-cuaca.git)
-
----
