@@ -23,6 +23,6 @@
 
 ## ✨ Latest Projects
 - 🔗 [Project 1](https://github.com/Wisnunot/project1)
-- 🔗 [Project 2](https://github.com/Wisnunot/project2)
+- 🔗 [Project 2](https://github.com/ophari/prediksi-cuaca.git)
 
 ---
